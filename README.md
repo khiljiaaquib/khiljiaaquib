@@ -74,3 +74,68 @@ MISSION           : BUILD THINGS PEOPLE REMEMBER
 </div>
 
 ---
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=330&color=0:000000,20:07111f,45:001B2E,70:005B96,100:00F5FF&text=Aaquib%20Khilji&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Three.js%20Developer&descAlignY=57"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2200&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Building+Products+That+Matter.;Turning+Ideas+Into+Reality.;Obsessed+With+Clean+Code.;AI+%7C+MERN+%7C+Three.js"/>
+
+<br><br>
+
+<p>
+
+<a href="https://github.com/khiljiaaquib">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/91XXXXXXXXXX">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=khiljiaaquib&label=PROFILE+VIEWS&style=for-the-badge&color=00C9FF"/>
+
+<img src="https://img.shields.io/github/followers/khiljiaaquib?style=for-the-badge&logo=github&color=00C9FF"/>
+
+<img src="https://img.shields.io/github/stars/khiljiaaquib?style=for-the-badge&logo=github&color=00C9FF"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Coffee-Required-brown?style=for-the-badge"/>
+
+</div>
+
+---
+
+# ⚡ Developer Summary
+
+```yaml
+Name      : Aaquib Khilji
+
+Role      : Full Stack Developer
+
+Focus     : AI • MERN • Computer Vision
+
+Learning  : Advanced AI • Three.js • System Design
+
+Goal      : Build products that millions can use.
+
+Status    : 🟢 Available for exciting projects
+```
