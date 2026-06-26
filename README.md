@@ -17,3 +17,24 @@
 <img src="https://img.shields.io/github/stars/khiljiaaquib?style=for-the-badge">
 
 </div>
+---
+
+# 💻 whoami
+
+```bash
+> whoami
+
+Name        : Aaquib Khilji
+Role        : Full Stack Developer
+Education   : Computer Science Student
+Location    : India
+
+Speciality  : Building real-world software
+Current     : AI Powered Applications
+Learning    : Advanced AI, Three.js, System Design
+Passion     : Creating products people actually use
+
+Tech Stack  : MERN • Python • AI/ML • DSA • Three.js
+
+Status      : Coding...
+```
