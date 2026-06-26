@@ -19,22 +19,50 @@
 </div>
 ---
 
-# 💻 whoami
+<div align="center">
 
-```bash
-> whoami
+```text
+> Initializing profile...
 
-Name        : Aaquib Khilji
-Role        : Full Stack Developer
-Education   : Computer Science Student
-Location    : India
+██████████████████████████████ 100%
 
-Speciality  : Building real-world software
-Current     : AI Powered Applications
-Learning    : Advanced AI, Three.js, System Design
-Passion     : Creating products people actually use
+Loading Developer Profile...
 
-Tech Stack  : MERN • Python • AI/ML • DSA • Three.js
+✓ Loading Projects
+✓ Loading Skills
+✓ Loading Coffee ☕
+✓ Loading Bugs 🐛
+✓ Fixing Bugs...
+✓ Success!
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Who+the+heck+is+Aaquib+%3F"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=2200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Let's+find+out..."/>
+
+</div>
+
+---
+
+# 👋 Hey there!
+
+I'm **Aaquib Khilji**, a passionate Computer Science student who enjoys building things that people actually use.
+
+From AI-powered applications to immersive 3D web experiences, I love transforming ideas into products.
+
+Whether it's solving DSA problems, building full-stack applications, or experimenting with Computer Vision, I'm always chasing the next challenge.
+
+---
+
+## 🚀 What keeps me busy?
+
+- 🤖 Building AI-powered applications
+- 🌐 Developing scalable MERN projects
+- 🎮 Creating immersive Three.js experiences
+- 🧠 Solving Data Structures & Algorithms
+- 📚 Learning something new every single day • AI/ML • DSA • Three.js
 
 Status      : Coding...
 ```
