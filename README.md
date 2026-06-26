@@ -139,3 +139,152 @@ Goal      : Build products that millions can use.
 
 Status    : 🟢 Available for exciting projects
 ```
+
+<div align="center">
+
+# 🤖 J.A.R.V.I.S AI ANALYSIS
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=1600&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Scanning+Developer...;Reading+Repositories...;Analyzing+Coding+Patterns...;Checking+Creativity...;Generating+Developer+Report..."/>
+
+</div>
+
+---
+
+```text
+══════════════════════════════════════════════════════════════
+
+            AI DEVELOPER ANALYSIS REPORT
+
+══════════════════════════════════════════════════════════════
+
+STATUS              🟢 VERIFIED
+
+NAME                Aaquib Khilji
+
+CLASS               Full Stack Developer
+
+SPECIALIZATION      AI / ML
+
+SECONDARY           MERN Stack
+
+PASSION             Building Real World Products
+
+PROBLEM SOLVING     ███████████████░   94%
+
+CREATIVITY          ████████████████   97%
+
+DEBUGGING           ██████████████░░   91%
+
+LEARNING SPEED      ███████████████░   95%
+
+COFFEE LEVEL        ████████████████   999%
+
+BUGS SURVIVED       ∞
+
+MENTAL BREAKDOWNS   classified...
+
+══════════════════════════════════════════════════════════════
+```
+
+---
+
+## 🧠 AI Observation
+
+```diff
++ Loves building projects.
+
++ Prefers learning by creating.
+
++ Interested in Artificial Intelligence.
+
++ Builds Full Stack Applications.
+
++ Enjoys Three.js & 3D Web.
+
++ Solves DSA regularly.
+
++ Turns ideas into products.
+
+- Doesn't stop until the bug disappears.
+```
+
+---
+
+## ⚡ Current Objectives
+
+```text
+☑ Build impactful software
+
+☑ Learn advanced AI
+
+☑ Explore System Design
+
+☑ Build immersive 3D experiences
+
+☑ Contribute to Open Source
+```
+
+---
+
+## 📊 Overall Scan
+
+```text
+Coding Ability
+
+██████████████████░░ 95%
+
+Creativity
+
+███████████████████░ 98%
+
+Problem Solving
+
+█████████████████░░░ 92%
+
+Consistency
+
+████████████████░░░░ 89%
+
+Curiosity
+
+████████████████████ 100%
+```
+
+---
+
+<div align="center">
+
+## 🤖 AI Verdict
+
+```
+Developer has high curiosity.
+
+Builds instead of just learning.
+
+Potential detected.
+
+Recommendation :
+
+██████████████████████
+
+HIRE THIS HUMAN ✅
+```
+
+</div>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
