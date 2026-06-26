@@ -45,45 +45,57 @@
 
 # ⚡ Skill Review
 
-> _Every skill below represents my current confidence level based on the projects I've built._
+> *Based on projects I've built and hands-on experience.*
 
 <table>
-
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br>
-<b>C++ / DSA</b><br><br>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/>
+
+### C++
 
 ⭐⭐⭐⭐⭐
 
 Advanced
+
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
-<b>Python</b><br><br>
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=c" width="55"/>
+
+### C
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=java" width="55"/>
+
+### Java
+
+⭐⭐☆☆☆
+
+Learning
+
+</td>
+
+<td align="center" width="160">
+
+<img src="https://skillicons.dev/icons?i=python" width="55"/>
+
+### Python
 
 ⭐⭐⭐⭐⭐
 
 Advanced
-</td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
-<b>JavaScript</b><br><br>
-
-⭐⭐⭐⭐☆
-
-Intermediate+
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
-<b>React</b><br><br>
-
-⭐⭐⭐⭐☆
-
-Intermediate+
 </td>
 
 </tr>
@@ -91,82 +103,330 @@ Intermediate+
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
-<b>Node.js</b><br><br>
 
-⭐⭐⭐⭐☆
+<img src="https://skillicons.dev/icons?i=html" width="55"/>
 
-Intermediate+
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="55"/><br>
-<b>Express</b><br><br>
-
-⭐⭐⭐⭐☆
-
-Intermediate+
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55"/><br>
-<b>MongoDB</b><br><br>
-
-⭐⭐⭐⭐☆
-
-Intermediate+
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=supabase" width="55"/><br>
-<b>Supabase</b><br><br>
+### HTML
 
 ⭐⭐⭐⭐⭐
 
 Advanced
+
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center">
-<img src="https://skillicons.dev/icons?i=opencv" width="55"/><br>
-<b>OpenCV</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=css" width="55"/>
+
+### CSS
 
 ⭐⭐⭐⭐☆
 
-Intermediate+
+Intermediate
+
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=threejs" width="55"/><br>
-<b>Three.js</b><br><br>
+
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/>
+
+### JavaScript
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=typescript" width="55"/>
+
+### TypeScript
 
 ⭐⭐⭐☆☆
 
 Learning
-</td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=blender" width="55"/><br>
-<b>Blender</b><br><br>
-
-⭐⭐⭐☆☆
-
-Learning
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
-<b>Git</b><br><br>
-
-⭐⭐⭐⭐⭐
-
-Advanced
 </td>
 
 </tr>
 
-</table>Status      : Coding...
-```
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=react" width="55"/>
+
+### React
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+
+### Node.js
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=express" width="55"/>
+
+### Express
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+
+### MongoDB
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
+
+### MySQL
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=supabase" width="55"/>
+
+### Supabase
+
+⭐⭐⭐⭐⭐
+
+Advanced
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=firebase" width="55"/>
+
+### Firebase
+
+⭐⭐⭐☆☆
+
+Learning
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=sqlite" width="55"/>
+
+### SQLite
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="55"/>
+
+### Git
+
+⭐⭐⭐⭐⭐
+
+Advanced
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+
+### GitHub
+
+⭐⭐⭐⭐⭐
+
+Advanced
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+
+### VS Code
+
+⭐⭐⭐⭐⭐
+
+Advanced
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=linux" width="55"/>
+
+### Linux
+
+⭐⭐⭐☆☆
+
+Learning
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=opencv" width="55"/>
+
+### OpenCV
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=threejs" width="55"/>
+
+### Three.js
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=blender" width="55"/>
+
+### Blender
+
+⭐⭐⭐☆☆
+
+Learning
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=npm" width="55"/>
+
+### NPM
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postman" width="55"/>
+
+### Postman
+
+⭐⭐⭐⭐⭐
+
+Advanced
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel" width="55"/>
+
+### Vercel
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=netlify" width="55"/>
+
+### Netlify
+
+⭐⭐⭐⭐☆
+
+Intermediate
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=figma" width="55"/>
+
+### Figma
+
+⭐⭐⭐☆☆
+
+Learning
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Framework Expertise
+
+| Technology | Rating |
+|------------|:------:|
+| MERN Stack | ⭐⭐⭐⭐⭐ |
+| AI / Machine Learning | ⭐⭐⭐⭐☆ |
+| Computer Vision | ⭐⭐⭐⭐☆ |
+| Face Recognition | ⭐⭐⭐⭐☆ |
+| Full Stack Development | ⭐⭐⭐⭐⭐ |
+| REST APIs | ⭐⭐⭐⭐☆ |
+| Data Structures & Algorithms | ⭐⭐⭐⭐⭐ |
+| Database Design | ⭐⭐⭐⭐☆ |
+| Responsive UI | ⭐⭐⭐⭐⭐ |
+| 3D Web Development | ⭐⭐⭐⭐☆ |
