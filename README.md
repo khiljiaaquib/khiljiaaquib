@@ -401,7 +401,205 @@ Progress
 </div>
 
 ---
+<div align="center">
 
+# 🌌 SKILL GALAXY
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1700&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Mapping+Developer+Skills...;Building+Knowledge+Graph...;Skill+Galaxy+Ready..."/>
+
+*"Every technology is a new universe to explore."*
+
+</div>
+
+---
+
+# 💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript,typescript"/>
+
+</p>
+
+```text
+C++          ████████████████████  ⭐⭐⭐⭐⭐
+
+Python       ████████████████████  ⭐⭐⭐⭐⭐
+
+JavaScript   █████████████████░░░  ⭐⭐⭐⭐☆
+
+TypeScript   ███████████████░░░░░  ⭐⭐⭐☆☆
+
+C            ███████████████░░░░░  ⭐⭐⭐⭐☆
+
+Java         ████████░░░░░░░░░░░░  ⭐⭐☆☆☆
+```
+
+---
+
+# 🌐 Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite"/>
+
+</p>
+
+```text
+HTML         ████████████████████ ⭐⭐⭐⭐⭐
+
+CSS          █████████████████░░░ ⭐⭐⭐⭐☆
+
+React        █████████████████░░░ ⭐⭐⭐⭐☆
+
+Tailwind     ████████████████░░░░ ⭐⭐⭐⭐☆
+
+Vite         ████████████████░░░░ ⭐⭐⭐⭐☆
+```
+
+---
+
+# ⚙ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+```text
+Node.js      █████████████████░░░ ⭐⭐⭐⭐☆
+
+Express      █████████████████░░░ ⭐⭐⭐⭐☆
+```
+
+---
+
+# 🗄 Database
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase"/>
+
+</p>
+
+```text
+MongoDB      █████████████████░░░ ⭐⭐⭐⭐☆
+
+MySQL        █████████████████░░░ ⭐⭐⭐⭐☆
+
+Supabase     ████████████████████ ⭐⭐⭐⭐⭐
+```
+
+---
+
+# 🤖 Artificial Intelligence
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,opencv"/>
+
+</p>
+
+```text
+Machine Learning      ████████████████░░ ⭐⭐⭐⭐☆
+
+Computer Vision       ████████████████░░ ⭐⭐⭐⭐☆
+
+Face Recognition      ████████████████░░ ⭐⭐⭐⭐☆
+
+OpenCV                ████████████████░░ ⭐⭐⭐⭐☆
+```
+
+---
+
+# 🎮 3D Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=threejs,blender"/>
+
+</p>
+
+```text
+Three.js      ████████████████░░░ ⭐⭐⭐⭐☆
+
+Blender       ████████████░░░░░░░ ⭐⭐⭐☆☆
+```
+
+---
+
+# ☁ Deployment
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=vercel,netlify"/>
+
+<img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="48"/>
+
+</p>
+
+```text
+Render       ████████████████████ ⭐⭐⭐⭐⭐
+
+Vercel       █████████████████░░░ ⭐⭐⭐⭐☆
+
+Netlify      █████████████████░░░ ⭐⭐⭐⭐☆
+```
+
+---
+
+# 🧰 Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm"/>
+
+</p>
+
+```text
+Git          ████████████████████ ⭐⭐⭐⭐⭐
+
+GitHub       ████████████████████ ⭐⭐⭐⭐⭐
+
+VS Code      ████████████████████ ⭐⭐⭐⭐⭐
+
+Postman      ████████████████████ ⭐⭐⭐⭐⭐
+
+NPM          █████████████████░░░ ⭐⭐⭐⭐☆
+```
+
+---
+
+<div align="center">
+
+## 🚀 OVERALL POWER
+
+```text
+Full Stack Development
+
+███████████████████████ 95%
+
+Artificial Intelligence
+
+████████████████████░░ 90%
+
+Problem Solving
+
+█████████████████████░ 93%
+
+3D Development
+
+█████████████████░░░░ 82%
+
+Overall Developer Score
+
+9.4 / 10 ⭐
+```
+
+</div>
+
+---
 
 
 
