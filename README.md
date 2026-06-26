@@ -987,7 +987,75 @@ Current Objective
 </div>
 
 ---
+<div align="center">
 
+# 🚀 MISSION CONTROL
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Tracking+Developer+Journey...;Synchronizing+Current+Objectives...;Mission+Status+Updated..."/>
+
+</div>
+
+---
+
+## 🎯 Active Missions
+
+| Mission | Status | Progress |
+|---------|:------:|:--------:|
+| 🤖 Build AI Applications | 🟢 Active | ██████████░░ 85% |
+| 🌐 Master Full Stack Development | 🟢 Active | ███████████░ 90% |
+| 🎮 Create 3D Web Experiences | 🟢 Active | ████████░░░░ 70% |
+| 🧠 Practice DSA | 🟢 Daily | ████████████ 100% |
+| 🚀 Contribute to Open Source | 🟡 Ongoing | ██████░░░░░░ 55% |
+
+---
+
+# 🗺️ Roadmap
+
+```text
+2024  ████████████████████  Programming Fundamentals
+
+2025  ████████████████████  MERN + AI + OpenCV
+
+2026  ████████████████████  AuraClass & Full Stack Projects
+
+2027  ░░░░░░░░░░░░░░░░░░░░  AI SaaS / Startup
+
+2028  ░░░░░░░░░░░░░░░░░░░░  Global Scale Products
+```
+
+---
+
+## ⚡ Current Focus
+
+```yaml
+Current Project:
+  AuraClass
+
+Currently Learning:
+  - Advanced AI
+  - System Design
+  - Three.js
+  - Scalable Backend Architecture
+
+Next Goal:
+  Build software used by millions.
+```
+
+---
+
+<div align="center">
+
+### 📡 Mission Status
+
+![Mission](https://img.shields.io/badge/STATUS-IN_PROGRESS-00F7FF?style=for-the-badge)
+
+![Learning](https://img.shields.io/badge/LEARNING-EVERY_DAY-success?style=for-the-badge)
+
+![Coffee](https://img.shields.io/badge/POWERED_BY-COFFEE-brown?style=for-the-badge)
+
+</div>
+
+---
 
 
 
