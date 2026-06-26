@@ -273,7 +273,134 @@ HIRE THIS HUMAN ✅
 </div>
 
 ---
+<div align="center">
 
+# 🎮 DEVELOPER CHARACTER
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Loading+Character...;Synchronizing+Data...;Developer+Ready..."/>
+
+</div>
+
+---
+
+<div align="center">
+
+| 🆔 Developer ID | DEV-2005-AK |
+|:---------------:|:-----------:|
+| 👤 Name | **Aaquib Khilji** |
+| 💼 Class | Full Stack Developer |
+| 🧠 Specialization | AI / Machine Learning |
+| 🎮 Secondary Class | Three.js Developer |
+| 🌎 Region | India 🇮🇳 |
+| 🟢 Status | Online |
+| ⚡ Current Mission | Building AuraClass |
+| 🏆 Rank | S Class Developer |
+
+</div>
+
+---
+
+# ❤️ Developer Stats
+
+| Attribute | Level |
+|-----------|--------|
+| ❤️ Coding | ████████████████████ 100% |
+| 🧠 Problem Solving | ██████████████████░ 93% |
+| 🚀 Creativity | ███████████████████ 97% |
+| ⚡ Learning Speed | ███████████████████ 95% |
+| 🐞 Bug Fixing | █████████████████░░ 91% |
+| ☕ Coffee | ███████████████████ 999% |
+| 😴 Sleep | ██░░░░░░░░░░░░░░░░ 10% |
+
+---
+
+# 🎒 Inventory
+
+| Slot | Equipped |
+|------|----------|
+| ⚔ Primary Weapon | Python 🐍 |
+| 🛡 Secondary Weapon | MERN Stack |
+| 🧠 Intelligence | AI / ML |
+| 🎮 Special Ability | Three.js |
+| 📚 Passive Skill | DSA |
+| 🗄 Database | MongoDB + Supabase |
+| 🧰 Utility | Git • GitHub • VS Code |
+
+---
+
+# ⚡ Passive Skills
+
+```text
+✔ Thinks before coding
+
+✔ Learns by building projects
+
+✔ Loves debugging
+
+✔ Writes reusable code
+
+✔ Enjoys solving challenging problems
+
+✔ Doesn't give up until it works
+```
+
+---
+
+# 🏆 Achievements Unlocked
+
+🏅 AuraClass
+
+🏅 AI Face Recognition
+
+🏅 MERN Applications
+
+🏅 Responsive UI
+
+🏅 Computer Vision
+
+🏅 Open Source Journey Started
+
+🏅 Countless Hours in VS Code ☕
+
+---
+
+# 🎯 Current Quest
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Mission :
+Become an AI Engineer capable of building products
+used by millions.
+
+Progress
+
+████████████████░░░░ 81%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+<div align="center">
+
+## ⚔ Character Perks
+
+🤖 AI Engineer
+
+🌐 Full Stack Developer
+
+🎮 3D Explorer
+
+🧩 Problem Solver
+
+🚀 Fast Learner
+
+☕ Coffee Powered
+
+</div>
+
+---
 
 
 
