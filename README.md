@@ -456,7 +456,7 @@ AI Resume Builder • ATS Freindly Templates • Login • Zyra
 
 <br><br>
 
-<a href="https://github.com/khiljiaaquib/newFolio.X">
+<a href="https://github.com/khiljiaaquib/New-Folio.X">
 
 <img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge"/>
 
@@ -502,7 +502,7 @@ Loading...
 
 ```
 
-Your next project goes here.
+
 
 </td>
 
@@ -714,7 +714,7 @@ Projects
 
 <a href="#">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdXdBIvPF7X51JN9gcjCe4iUSoTABBUEDxf2lAMXTlMg&s=10"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdXdBIvPF7X51JN9gcjCe4iUSoTABBUEDxf2lAMXTlMg&s=10" width="70"/>
 
 <br>
 
