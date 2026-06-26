@@ -113,53 +113,6 @@ Goal      : Build products that millions can use.
 Status    : 🟢 Available for exciting projects
 ```
 
-<div align="center">
-
-# 🤖 J.A.R.V.I.S AI ANALYSIS
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=1600&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Scanning+Developer...;Reading+Repositories...;Analyzing+Coding+Patterns...;Checking+Creativity...;Generating+Developer+Report..."/>
-
-</div>
-
----
-
-```text
-══════════════════════════════════════════════════════════════
-
-            AI DEVELOPER ANALYSIS REPORT
-
-══════════════════════════════════════════════════════════════
-
-STATUS              🟢 VERIFIED
-
-NAME                Aaquib Khilji
-
-CLASS               Full Stack Developer
-
-SPECIALIZATION      AI / ML
-
-SECONDARY           MERN Stack
-
-PASSION             Building Real World Products
-
-PROBLEM SOLVING     ███████████████░   94%
-
-CREATIVITY          ████████████████   97%
-
-DEBUGGING           ██████████████░░   91%
-
-LEARNING SPEED      ███████████████░   95%
-
-COFFEE LEVEL        ████████████████   999%
-
-BUGS SURVIVED       ∞
-
-MENTAL BREAKDOWNS   classified...
-
-══════════════════════════════════════════════════════════════
-```
-
----
 
 ## 🧠 AI Observation
 
@@ -246,114 +199,9 @@ HIRE THIS HUMAN ✅
 </div>
 
 ---
-<div align="center">
 
-# 🎮 DEVELOPER CHARACTER
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Loading+Character...;Synchronizing+Data...;Developer+Ready..."/>
 
-</div>
-
----
-
-<div align="center">
-
-| 🆔 Developer ID | DEV-2005-AK |
-|:---------------:|:-----------:|
-| 👤 Name | **Aaquib Khilji** |
-| 💼 Class | Full Stack Developer |
-| 🧠 Specialization | AI / Machine Learning |
-| 🎮 Secondary Class | Three.js Developer |
-| 🌎 Region | India 🇮🇳 |
-| 🟢 Status | Online |
-| ⚡ Current Mission | Building AuraClass |
-| 🏆 Rank | S Class Developer |
-
-</div>
-
----
-
-# ❤️ Developer Stats
-
-| Attribute | Level |
-|-----------|--------|
-| ❤️ Coding | ████████████████████ 100% |
-| 🧠 Problem Solving | ██████████████████░ 93% |
-| 🚀 Creativity | ███████████████████ 97% |
-| ⚡ Learning Speed | ███████████████████ 95% |
-| 🐞 Bug Fixing | █████████████████░░ 91% |
-| ☕ Coffee | ███████████████████ 999% |
-| 😴 Sleep | ██░░░░░░░░░░░░░░░░ 10% |
-
----
-
-# 🎒 Inventory
-
-| Slot | Equipped |
-|------|----------|
-| ⚔ Primary Weapon | Python 🐍 |
-| 🛡 Secondary Weapon | MERN Stack |
-| 🧠 Intelligence | AI / ML |
-| 🎮 Special Ability | Three.js |
-| 📚 Passive Skill | DSA |
-| 🗄 Database | MongoDB + Supabase |
-| 🧰 Utility | Git • GitHub • VS Code |
-
----
-
-# ⚡ Passive Skills
-
-```text
-✔ Thinks before coding
-
-✔ Learns by building projects
-
-✔ Loves debugging
-
-✔ Writes reusable code
-
-✔ Enjoys solving challenging problems
-
-✔ Doesn't give up until it works
-```
-
----
-
-# 🏆 Achievements Unlocked
-
-🏅 AuraClass
-
-🏅 AI Face Recognition
-
-🏅 MERN Applications
-
-🏅 Responsive UI
-
-🏅 Computer Vision
-
-🏅 Open Source Journey Started
-
-🏅 Countless Hours in VS Code ☕
-
----
-
-# 🎯 Current Quest
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Mission :
-Become an AI Engineer capable of building products
-used by millions.
-
-Progress
-
-████████████████░░░░ 81%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
 
 <div align="center">
 
@@ -590,7 +438,31 @@ Overall Developer Score
 <table>
 
 <tr>
+<td width="50%" align="center">
 
+# 🎓 AuraClass
+
+### AI Powered Smart Attendance
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+
+AI Attendance • Face Recognition • Dashboard • Analytics
+
+<br><br>
+
+<a href="https://github.com/khiljiaaquib/AuraClass">
+
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge"/>
+
+</a>
+
+</td>
 <td width="50%" align="center">
 
 # 🎓 AuraClass
