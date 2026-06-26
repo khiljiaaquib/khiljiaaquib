@@ -331,8 +331,7 @@ Intermediate
 <tr>
 
 <td align="center">
-
-<img src="https://skillicons.dev/icons?i=render" width="55"/>
+<img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="55" alt="Render"/>
 
 ### Render
 
