@@ -230,29 +230,9 @@ Advanced
 
 </td>
 
-<td align="center">
 
-<img src="https://skillicons.dev/icons?i=firebase" width="55"/>
 
-### Firebase
 
-⭐⭐⭐☆☆
-
-Learning
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=sqlite" width="55"/>
-
-### SQLite
-
-⭐⭐⭐⭐☆
-
-Intermediate
-
-</td>
 
 </tr>
 
@@ -294,21 +274,9 @@ Advanced
 
 </td>
 
-<td align="center">
 
-<img src="https://skillicons.dev/icons?i=linux" width="55"/>
 
-### Linux
 
-⭐⭐⭐☆☆
-
-Learning
-
-</td>
-
-</tr>
-
-<tr>
 
 <td align="center">
 
@@ -364,9 +332,9 @@ Intermediate
 
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=postman" width="55"/>
+<img src="https://skillicons.dev/icons?i=render" width="55"/>
 
-### Postman
+### Render
 
 ⭐⭐⭐⭐⭐
 
@@ -398,17 +366,7 @@ Intermediate
 
 </td>
 
-<td align="center">
 
-<img src="https://skillicons.dev/icons?i=figma" width="55"/>
-
-### Figma
-
-⭐⭐⭐☆☆
-
-Learning
-
-</td>
 
 </tr>
 
