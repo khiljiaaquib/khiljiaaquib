@@ -564,12 +564,24 @@ GitHub
 </a>
 
 </td>
-
 <td align="center">
 
-<a href="https://github.com/khiljiaaquib/AuraClass">
+<a href="https://folio-x.onrender.com">
 
-<img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="70"/>
+<img src="[https://ik.imagekit.io/tp9rocwx79/auralogo.png](https://lh3.googleusercontent.com/rd-gg-dl/AFfU-fJCE0UbdSSSjbSUr3ToCW1jGia40W8dHYB03Sh_3ugd3s94ceo6UcXNWK9h62rEwid0QPsObc30TGO8IueGSSb7E71J9EMW6EZEmQODz_7jFzmSJvP-hHSW9dwuWSpPMBKeLYnxpXnZqfbtrXnD2kbCs9SPiiUI1auxJdGbpUUFp-Z2v5FUF8XgaSa8qY0S9toXcazRF5NpuBNc6PnVA-_mATV2_aHXp2xp0pLyIcRsmdMlnRbnmjzkgz7sxBXn-4mvnkWmjev8H4Ztm9Kg43nLdgavM59KpaPkVBFBRx1dyuThdwVdQK1thXQo27xFh0mkJ9wW-prCElSuII6Af6ze8oiB4QB8J-F3s98a0ShQfGX8DQaAoZnFoXUXc2-KNUJ2TpPT3FVCeR2xJNFUD3y4lKVlTKtCx7cQrVQnSHQHPjm7XhEZm5jzNiNBI8zOJe9Y-W7OPPNW0aUSkGQGGcZGU5dvzgmJabYpixSvkPcYf3WcvvS0A1grWC5GLf2MYq9fOPwE7T_TQghXJ01wrnma5bTyy3hLKC7kWkvqz9rEpCjVEnHO7BwdmUXx0VwIRZqiFCdFNS8KrLMToJhpJ2Es9EzF5HOU2kmmDfkNeohg46wku0KJW8YdZRSbCkhHCvP1_qZjFBXKbmnDxeHmZYI1YaAOabu0AgXGmMHtLfBW-6u0iSFnHAhKC0DerUL9_u8LczCt5ABuotM_aJ2-n2VrF06QMfvdirLTEOSvTJFehry8tgcSsFyGt_A7t8LtYuC_IdlWRkz9H0KFVWKJqfeqGjNucooEXtYAqHmgSNao-ihpbCMnsd9llgmZgujZcHAnNCd3rVKRDwICx6t509AUMIK7kseGBCEoT8cME2LuvLLuPjKwRPOiH6S8-OPdcXZHneSqITbYxTWG9m99GiiSGkkDcKkxe6pyWFCJ_IgZEji1h44UT_0z1YV8G5bJ6d1hiWtqyoUvezb5V3QfSIJn_9Nasuf03Te_MQn6nXujTB9-FPj11DmrxwirryVjK8q4_ofLMp6dMA85dSYX6WULyy8ecbfNU8I4B64Il9RCJ4jFsNZMswZHv94ny-9SxrXeM29q7fcb6K8eLTQtdvaF4s2q37qLQo9zLlS2CgxMjLwIhyoQpH6WzlEdDMOFrfnvG_mqjT7ByOmPVEaRZLQQVsScIHCeTTRUlLTqPof7ID4czA88xnY8Jnvb8GP-0oy6rGmWxvwIvRTSQfE11fFRKThZSxVyMvVZEo3s-xVfnJlkLgabq6gm5PrD=s1024-rj)"/>
+
+<br>
+
+Folio.X
+
+</a>
+
+</td>
+<td align="center">
+
+<a href="https://auraclass.vercel.app">
+
+<img src="https://ik.imagekit.io/tp9rocwx79/auralogo.png"/>
 
 <br>
 
@@ -581,13 +593,13 @@ AuraClass
 
 <td align="center">
 
-<a href="YOUR_PORTFOLIO">
+<a href="">
 
 <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="70"/>
 
 <br>
 
-Portfolio
+Portfolio coming soon...
 
 </a>
 
@@ -595,13 +607,13 @@ Portfolio
 
 <td align="center">
 
-<a href="YOUR_RESUME">
+<a href="#">
 
 <img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="70"/>
 
 <br>
 
-Resume.pdf
+Resume.pdf coming soon...
 
 </a>
 
@@ -613,7 +625,7 @@ Resume.pdf
 
 <td align="center">
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/aaquibFK_9_">
 
 <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="70"/>
 
@@ -627,7 +639,7 @@ Instagram
 
 <td align="center">
 
-<a href="https://wa.me/91XXXXXXXXXX">
+<a href="https://wa.me/9270709642">
 
 <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="70"/>
 
@@ -641,7 +653,7 @@ WhatsApp
 
 <td align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:Khiljiaaquib@gmail.com">
 
 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="70"/>
 
@@ -655,7 +667,7 @@ Mail
 
 <td align="center">
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="[https://linkedin.com/in/](https://www.linkedin.com/in/aaquib-khilji-983aa0392/)">
 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="70"/>
 
@@ -707,7 +719,7 @@ Projects
 
 <br>
 
-JARVIS
+Portfolio
 
 </a>
 
@@ -715,13 +727,13 @@ JARVIS
 
 <td align="center">
 
-<a href="https://spotify.com">
+<a href="#">
 
-<img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="70"/>
+<img src="data:image/png;base64,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"/>
 
 <br>
 
-Spotify
+Leetcode
 
 </a>
 
@@ -774,7 +786,7 @@ Coffee
 |---------|:------:|:--------:|
 | 🤖 Build AI Applications | 🟢 Active | ██████████░░ 85% |
 | 🌐 Master Full Stack Development | 🟢 Active | ███████████░ 90% |
-| 🎮 Create 3D Web Experiences | 🟢 Active | ████████░░░░ 70% |
+| 🎮 Create 3D Web Experiences | 🟢 Active | ██████░░░░░░ 55% |
 | 🧠 Practice DSA | 🟢 Daily | ████████████ 100% |
 | 🚀 Contribute to Open Source | 🟡 Ongoing | ██████░░░░░░ 55% |
 
@@ -800,8 +812,13 @@ Coffee
 
 ```yaml
 Current Project:
+  Folio.X
   AuraClass
-
+Future Projects:
+  AI based Gym Trainer
+  ATS system
+  Photo conversion App
+  & so on....
 Currently Learning:
   - Advanced AI
   - System Design
