@@ -912,7 +912,81 @@ Coffee
 </div>
 
 ---
+<div align="center">
 
+# 📊 DEVELOPER DASHBOARD
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1800&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Loading+Developer+Dashboard...;Fetching+GitHub+Data...;Synchronizing+Repositories..."/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Live GitHub Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=khiljiaaquib&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khiljiaaquib&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khiljiaaquib&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# ⚙️ System Monitor
+
+```text
+┌──────────────────────────────────────────────┐
+
+Developer Status      🟢 ONLINE
+
+GitHub Profile        ACTIVE
+
+Repositories          ████████████████████
+
+Open Source           ███████████████░░░░
+
+Learning Mode         ENABLED
+
+Coffee Buffer         ████████████████████
+
+Creativity            ██████████████████░
+
+Debugging             █████████████████░░
+
+Current Objective
+
+→ Build impactful AI & Full Stack applications
+
+└──────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## 🛰️ Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=khiljiaaquib&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏅 Achievement Tracker
+
+<img src="https://github-profile-trophy.vercel.app/?username=khiljiaaquib&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
 
 
 
