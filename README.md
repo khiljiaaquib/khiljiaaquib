@@ -600,8 +600,318 @@ Overall Developer Score
 </div>
 
 ---
+<div align="center">
 
+# 🚀 PROJECT VAULT
 
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1800&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Accessing+Project+Vault...;Loading+Repositories...;Opening+Developer+Portfolio..."/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 Featured Builds
+
+<table>
+
+<tr>
+
+<td width="50%" align="center">
+
+# 🎓 AuraClass
+
+### AI Powered Smart Attendance
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
+
+AI Attendance • Face Recognition • Dashboard • Analytics
+
+<br><br>
+
+<a href="https://github.com/khiljiaaquib/AuraClass">
+
+<img src="https://img.shields.io/badge/View_Project-00F7FF?style=for-the-badge"/>
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+# 🚧 Coming Soon
+
+### Next Big Build
+
+```txt
+██████████░░░░░░
+
+Loading...
+
+```
+
+Your next project goes here.
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 📊 PROJECT STATS
+
+```text
+Projects Completed
+
+██████████████████ 100%
+
+AI Projects
+
+█████████████░░░░ 72%
+
+Full Stack Apps
+
+██████████████░░░ 81%
+
+3D Experiences
+
+████████░░░░░░░░░ 45%
+```
+
+---
+<div align="center">
+
+# 🖥️ Aaquib OS v2.0
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=1800&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Loading+Desktop...;Initializing+Applications...;Welcome+to+AaquibOS"/>
+
+</div>
+
+---
+
+## 🖥️ Desktop
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+<a href="https://github.com/khiljiaaquib">
+
+<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="70"/>
+
+<br>
+
+GitHub
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://github.com/khiljiaaquib/AuraClass">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="70"/>
+
+<br>
+
+AuraClass
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="YOUR_PORTFOLIO">
+
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="70"/>
+
+<br>
+
+Portfolio
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="YOUR_RESUME">
+
+<img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="70"/>
+
+<br>
+
+Resume.pdf
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="https://instagram.com/YOUR_USERNAME">
+
+<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="70"/>
+
+<br>
+
+Instagram
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://wa.me/91XXXXXXXXXX">
+
+<img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="70"/>
+
+<br>
+
+WhatsApp
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="70"/>
+
+<br>
+
+Mail
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="70"/>
+
+<br>
+
+LinkedIn
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="#-skill-galaxy">
+
+<img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="70"/>
+
+<br>
+
+Skills
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="#-project-vault">
+
+<img src="https://cdn-icons-png.flaticon.com/512/716/716784.png" width="70"/>
+
+<br>
+
+Projects
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="#-jarvis-ai-analysis">
+
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="70"/>
+
+<br>
+
+JARVIS
+
+</a>
+
+</td>
+
+<td align="center">
+
+<a href="https://spotify.com">
+
+<img src="https://cdn-icons-png.flaticon.com/512/174/174872.png" width="70"/>
+
+<br>
+
+Spotify
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<div align="center">
+
+```text
+Desktop Status
+
+🟢 Online
+
+Memory Usage
+
+███████████░░░░░░
+
+CPU
+
+██████████████░░░
+
+Coffee
+
+██████████████████
+
+```
+
+</div>
+
+---
 
 
 
