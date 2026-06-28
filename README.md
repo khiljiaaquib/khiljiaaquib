@@ -667,7 +667,7 @@ Mail
 
 <td align="center">
 
-<a href="[https://linkedin.com/in/](https://www.linkedin.com/in/aaquib-khilji-983aa0392/)">
+<a href="https://www.linkedin.com/in/mohd-aaquib-mohd-farooque-khilji-425a82392/?skipRedirect=true">
 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="70"/>
 
